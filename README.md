@@ -6,7 +6,7 @@
 
 This repository contains the code to reproduce the experiments and analyses of the paper
 
-> Holger Trittenbach, Jakob Bach, Klemens Böhm, "Understanding the Effects of Energy-Data Aggregation on Clustering Quality"
+> Holger Trittenbach, Jakob Bach, Klemens Böhm, "Understanding the Effects of Temporal Energy-Data Aggregation on Clustering Quality"
 
 For more information on our research project, see the companion website: https://www.ipd.kit.edu/clustagg/.
 
